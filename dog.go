@@ -1,4 +1,6 @@
 package dog
+include (
+	"strings")
 
 func WhenGrowUp(s string) string {
 
